@@ -48,18 +48,6 @@ Contributed to overall layout, visual hierarchy, and interaction design decision
 
 ---
 
-## 📸 Screenshots
-
-| Hero / Storefront | Product View |
-|:-----------------:|:------------:|
-| ![Hero](./screenshots/hero.png) | ![Product](./screenshots/product.png) |
-
-| Auth | Profile |
-|:----:|:-------:|
-| ![Auth](./screenshots/auth.png) | ![Profile](./screenshots/profile.png) |
-
----
-
 ## 👤 Author
 
 **Aditi Vashishtha** — [GitHub](https://github.com/AditiV05)
